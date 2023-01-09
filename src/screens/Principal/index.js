@@ -1,8 +1,8 @@
 import React from "react";
 import { View, Text, FlatList, TouchableOpacity } from "react-native";
-import { InformacoesUsuario } from "../../componentes/InformacoesUsuario";
-import { CardConsulta } from "../../componentes/CardConsulta";
-import { TelaDeFundo } from "../../componentes/TelaDeFundo";
+import { InformacoesUsuario } from "../../components/InformacoesUsuario";
+import { CardConsulta } from "../../components/CardConsulta";
+import { TelaDeFundo } from "../../components/TelaDeFundo";
 import soniaFoto from "../../assets/sonia.png";
 import pacientes from "./pacientes";
 import styles from "./styles";

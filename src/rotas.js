@@ -4,9 +4,9 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 const Tab = createNativeStackNavigator();
 
-import Onboarding from './telas/Onboarding';
-import Principal from './telas/Principal';
-import Detalhes from './telas/Detalhes';
+import Onboarding from './screens/Onboarding';
+import Principal from './screens/Principal';
+import Detalhes from './screens/Detalhes';
 
 export default function Rotas() {
   return (

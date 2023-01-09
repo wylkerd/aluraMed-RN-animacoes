@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, Image, TouchableOpacity, ScrollView } from 'react-native';
-import { TelaDeFundo } from '../../componentes/TelaDeFundo';
-import { InformacoesUsuario } from '../../componentes/InformacoesUsuario';
+import { TelaDeFundo } from '../../components/TelaDeFundo';
+import { InformacoesUsuario } from '../../components/InformacoesUsuario';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import mapa from '../../assets/mapa.png';
 import styles from './styles';
