@@ -4,7 +4,7 @@ export default StyleSheet.create({
   container: {
     height: 150,
     width: Dimensions.get('window').width, // pegando a largura máxima da tela do dispositivo,
-    paddingLeft: 70
+    paddingLeft: 60
   },
   image: { 
     height: '100%', 
